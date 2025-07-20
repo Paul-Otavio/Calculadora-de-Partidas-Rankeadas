@@ -1,5 +1,5 @@
 # Calculadora de Partidas Rankeadas: Criado com HTML, CSS e JavaScript
-Criado com o objetivo de colocar em prática meu aprendizado durante o curso da Dio Savegnago - Lógica de Programação
+Criado com o objetivo de colocar em prática o que aprendi durante o curso da DIO Savegnago – Lógica de Programação.
 
 
 ## Linguagens Utilizadas:
